@@ -21,7 +21,7 @@ Olá! Meu nome é Camila, sou uma desenvolvedora de software com experiência:
 - Front-end: Angular 15, Typescript.
 - Utilização de ngrx e component-store.
 - Versionamento com Git.
-- Controle de tarefas com Gitlab, Jira e GitHub.
+- Controle de tarefas com Gitlab, Jira, Trello e GitHub.
 
 Estou aberta a novos desafios e continuo aprendendo e explorando tecnologias atualizadas. Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou para saber mais sobre minhas experiências e habilidades.
 
